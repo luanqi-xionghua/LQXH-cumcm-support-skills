@@ -1,0 +1,4 @@
+interface:
+  display_name: "CUMCM Paper Review"
+  short_description: "分章调度七个检查器,汇总生成论文自查总报告"
+  default_prompt: "使用 $cumcm-paper-review 对我提供的完整赛题与论文做分章自查,按摘要→问题重述→问题分析→模型假设→符号说明→模型求解→参考文献/附录的顺序调度检查器,并汇总为一份 Markdown 总报告。"
