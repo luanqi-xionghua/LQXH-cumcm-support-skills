@@ -8,7 +8,7 @@
 
 点明cumcm-idea使用即可.
 ### 1.2 cumcm-paper-review（7个内置skill+1个总控skill）
-提供论文.
+提供论文，附件代码，附件数据
 
 对摘要，图表等论文整体内容进行审查.
 
